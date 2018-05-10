@@ -5,7 +5,8 @@ import android.os.Bundle;
 
 /**
  * Initial activity that will be launched when the application
- * gets loaded.  
+ * gets loaded.  This should be a place where the user can select
+ * clues.
  */
 public class StartActivity extends AppCompatActivity {
 
